@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BusinessCard>
+<name>Damian Jaskulski</name>
+<phone type="home">(12) 553 34 43</phone>
+<phone type="mobile">(+48) 321 321 342</phone>
+<email>damian@mail.pl</email>
+	
+	<company> dam &amp; jas &#174; </company>
+
+	<address>
+	<street>ul. krolewska 32</street> 
+	<zip>34-232 </zip>
+	<city>Krakow</city>
+</address>
+
+
+
+</BusinessCard>

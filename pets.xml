@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<animals>
+ <animal>
+  <name>Tilly</name>
+  <age>14</age>
+  <pet>cat</pet>
+  <color>silver</color>
+   <genealogy>
+  	<father>Dusty</father>
+	<mother>Barriet</mother>
+	</genealogy>
+ </animal>
+ <animal>
+  <name>Amanda</name>
+  <age>10</age>
+  <pet>dog</pet>
+  <color> brown</color>
+  <genealogy>
+  	<father>Ese</father>
+	<mother>Jasmine</mother>
+	</genealogy>
+ </animal>
+ <animal>
+  <name>Jack</name>
+  <age>3</age>
+  <pet>cat</pet>
+  <color>black</color>
+  <genealogy>
+  	<father>Mufasa</father>
+	<mother>Lily</mother>
+	</genealogy>
+  </animal>
+ <animal>
+  <name>Blake</name>
+  <age>12</age>
+  <pet>dog</pet>
+  <color>blue</color>
+ </animal>
+ <animal>
+  <name>Loosey</name>
+  <age>1</age>
+  <pet>cat</pet>
+  <color>brown</color>
+ </animal>
+</animals>
